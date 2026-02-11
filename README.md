@@ -32,5 +32,5 @@ Task: 1
 
 ---
 
-## ✅Outcome
+## Outcome
 Successfully configured a secure cybersecurity testing lab and demonstrated practical usage of fundamental security tools.
